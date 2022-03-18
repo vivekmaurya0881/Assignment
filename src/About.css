@@ -1,0 +1,50 @@
+.about {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.ab {
+  font-size: 2rem;
+  margin-top: 0.2rem;
+  margin-bottom: 1.6rem;
+  padding-right: 40rem;
+  font-style: italic;
+}
+
+.sub_heading {
+  font-weight: bold;
+  font-size: 1.3rem;
+  margin-bottom: 1.5rem;
+}
+
+.content {
+  padding-left: 40rem;
+  padding-right: 40rem;
+  margin-bottom: 2rem;
+}
+
+.sus {
+  margin-top: 1.8rem;
+  padding-left: 40rem;
+  padding-right: 40rem;
+  margin-bottom: 1.8rem;
+  font-style: oblique;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.dia {
+  padding-left: 30rem;
+  padding-right: 30rem;
+}
+
+.part > img {
+  padding-left: 45rem;
+  margin-bottom: 2rem;
+}

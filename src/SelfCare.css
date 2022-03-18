@@ -1,0 +1,34 @@
+.selfCare {
+  background-color: lightblue;
+}
+
+.lib {
+  padding-top: 1.5rem;
+}
+
+.shop {
+  padding-left: 40rem;
+  padding-top: 1.6rem;
+  font-size: 2.5rem;
+}
+
+.button {
+  margin-left: 40rem;
+  padding: 1.3rem;
+  border: 2px solid black;
+  border-radius: 1.7rem;
+  font-size: 1rem;
+  background-color: orange;
+}
+
+.hashtag {
+  padding-left: 40.8rem;
+  font-size: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.selfimg {
+  padding-left: 35rem;
+  padding-bottom: 0;
+}
